@@ -1,0 +1,6 @@
+[
+
+{ "keys": ["ctrl+shift+."], "command": "erb" },
+{ "keys": ["ctrl+l"], "command": "insert_snippet", "args": {"name": "Packages/Rails/hashrocket.sublime-snippet" }}
+
+]
